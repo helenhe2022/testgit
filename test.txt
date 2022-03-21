@@ -10,3 +10,4 @@ dev
 aaaaa
 bbbbbb
 partner
+add partner
